@@ -193,7 +193,7 @@ h1 {
     font-family: Montserrat, Helvetica, sans-serif;
 }
 
-.section-info {
+.infos {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -330,7 +330,7 @@ h1 {
     text-transform: uppercase;
     font-family: Montserrat, Helvetica, sans-serif;
 }
-#equipement {
+.equipement {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -466,7 +466,7 @@ h1 {
     padding: 50px;
 }
 
-#tarifs {
+.tarifs {
     background: #f1f1f1;
     display: flex;
     justify-content: center;
